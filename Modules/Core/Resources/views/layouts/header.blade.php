@@ -10,7 +10,8 @@
     <div class="container">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="index.html">
-        <img src="assets/img/logo.png" alt="logo">
+        {{-- <img src="assets/img/logo.png" alt="logo"> --}}
+        OUR BLOG
         </a>
         <!-- End Logo -->
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">

@@ -5,9 +5,9 @@
 ================================================== -->
 <div class="container">
 	<div class="mainheading">
-		<h1 class="sitetitle">Mediumish</h1>
+		<h1 class="sitetitle">Our Blog</h1>
 		<p class="lead">
-			 Bootstrap theme, medium style, simply perfect for bloggers
+			 Lets share our creative ideas
 		</p>
 	</div>
 <!-- End Site Title
